@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkshitKumar. I am rising third year Ph.D. student at Columbia Business School working on Operations Research. 
+- 👋 Hi, I’m @AkshitKumar. I am a fourth year Ph.D. student at Columbia Business School working on Operations Research. 
 - 👀 I’m interested in network revenue management, dynamic spatial matching and reinforcement learning theory.
 
 <!---
